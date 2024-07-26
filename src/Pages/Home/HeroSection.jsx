@@ -26,7 +26,7 @@ export default function HeroSection() {
         </div>
         <div className='logo'>
           <a className='git'href="https://github.com/mohammedhamdhan/" target='blank' rel="noopener noreferrer"><img src={githubLogoUrl} alt="GitHub Logo" style={{ width: '30px', height: '30px' }} /></a>
-          <a className='linked' href="https://www.linkedin.com/in/your-username" target="_blank" rel="noopener noreferrer">
+          <a className='linked' href="https://www.linkedin.com/in/mohammed-hamdhan-js/" target="_blank" rel="noopener noreferrer">
           <img src={linkedinLogoUrl} alt="LinkedIn Logo" style={{ width: '25px', height: '26px' }} />
           </a>
         </div>
