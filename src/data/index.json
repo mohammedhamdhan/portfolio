@@ -1,0 +1,60 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Experience with HTML, CSS and ReactJS. Aspiring to grow and develop skills througout my journey"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Experience with Python, JavaScript, Flask, NodeJS, PostgreSQL and have made projects with these"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "ROS2 and robotics",
+      "description": "Proficient in ROS2 and robotics related frameworks and microcontrollers such as RaspberryPi and ESP32"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Artificial Intelligence",
+      "description": "Deeply interested in AI tech and certified AI For Industry by AISG"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/image_1.png",
+      "title": "NUS Cartographers",
+      "description": "Developed a unique mapping software that maps and generates routes, along with list of amenities and other useful features for the entirety of School of Computing buildings. Pathfinding from one room to another made easy!",
+      "link": {
+        "text": "View in Github",
+        "url": "https://github.com/mohammedhamdhan/Orbital-project/tree/routing-feature-com1-b/app"
+      }
+    },
+    {
+      "id": "2",
+      "src": "./img/turtle.png",
+      "title": "Autonomous Traversal Robot",
+      "description": "Built a robot with a turtlebot kit, that uses a Lidar, OpenCR and RaspberryPi4, along with color sensor to autonomously navigate a maze and deposit 5 balls in a checkpoint.",
+      "link": {
+        "text": "View README",
+        "url": "https://docs.google.com/document/d/1RIqvw48Fv8Z_NMvMZbjK9dqUS9DpIuIx7cjgfmruoUM/edit?usp=sharing"
+      }
+    },
+    {
+      "id": "3",
+      "src": "./img/img_3.png",
+      "title": "Alex the RObot ",
+      "description":"Built a robot with ArduinoMega, RaspberryPi and LiDAR that is remote controlled and able to move using an xbox controller" ,
+      "link": {
+        "text": "View README",
+        "url": "https://docs.google.com/document/d/1LbnWW3Ty4Pq9nYhWCqmxBzKNFDdDPz_K/edit?usp=sharing&ouid=103035462390742455362&rtpof=true&sd=true"
+      }
+    }
+  ]
+}
